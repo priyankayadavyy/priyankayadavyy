@@ -1,4 +1,4 @@
-- 👋 Hi, I’m PRIYANKA SINHG YADAV
+- 👋 Hi, I’m PRIYANKA SINGH YADAV
 - 👀 I’m interested in WEB DEVELOPER
 - 🌱 I’m currently studing in BTech last year
 - 💞️ I’m looking for new JOB.
