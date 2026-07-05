@@ -91,6 +91,6 @@ Each project repository includes source code, project documentation, responsive 
 ### Let’s Build
 Looking to collaborate on AI agent products, automation systems, analytics, and infra scaling.
 
-📩 Email — [atul@onyxiq.in](mailto:atul@onyxiq.in)  
-🔗 LinkedIn — [linkedin.com/in/atulsingh369](https://www.linkedin.com/in/atulsingh369)  
-👉 Portfolio - [onyxiq.in](https://onyxiq.in)  
+📩 Email — [priyankayadavyy01@gamil.com](mailto:priyankayadavyy01@gmail.com)  
+🔗 LinkedIn — [linkedin.com/in/priyanka-yadav-7025a9214](https://www.linkedin.com/in/priyanka-yadav-7025a9214/)  
+👉 Portfolio - [priyanka-portfolio-phi.vercel.app](https://priyanka-portfolio-phi.vercel.app/)  
