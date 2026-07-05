@@ -70,7 +70,9 @@ A powerful platform designed to allow users to seamlessly run and manage their w
 
 ---
 ### Proof of Work
-Each repository includes architecture diagrams, workflow breakdowns, previews, and technical notes.
+
+Each project repository includes source code, project documentation, responsive UI previews, implementation details, and setup instructions. My work reflects clean coding practices, reusable components, and modern frontend development using React and JavaScript.
+
 
 ---
 ### Philosophy
