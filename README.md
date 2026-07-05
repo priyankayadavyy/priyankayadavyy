@@ -77,7 +77,8 @@ Each project repository includes source code, project documentation, responsive 
 ---
 ### Philosophy
 
-> "Software is the closest thing we have to superpowers, and AI just unlocked the next level."
+> "Great software isn't just about writing code—it's about building experiences that solve real problems."
+"I believe the best web applications combine clean code, thoughtful design, and a seamless user experience."
 
 ---
 ### Tech Focus
