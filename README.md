@@ -78,7 +78,7 @@ Each project repository includes source code, project documentation, responsive 
 ### Philosophy
 
 > "Great software isn't just about writing code—it's about building experiences that solve real problems."
-"I believe the best web applications combine clean code, thoughtful design, and a seamless user experience."
+> "I believe the best web applications combine clean code, thoughtful design, and a seamless user experience."
 
 ---
 ### Tech Focus
