@@ -19,16 +19,19 @@ From planning and development to deployment, I continuously learn and improve my
 
 ---
 
-#### Linear Engine — Programmable AI Workflow Toolkit for Linear
-A production-style command toolkit that turns Linear into a programmable execution layer. It bridges the gap between AI code generation and operational execution, giving modern AI agents and developer tooling a reliable surface area to inspect state, manage issues, and sync project plans.
+#### RoadSOS - AI-Powered Accident Detection & Emergency Alert System
+Hackathon-ready project for real-time vehicle accident detection using AI, with automatic emergency alerts via SMS and calls.
 
-- CLI-first architecture for fast local commands and API-ready endpoints for remote MCP servers
-- Spec-driven sync engine with idempotent project updates and deterministic JSON outputs
-- Built with Node.js, TypeScript, and Hono for API services
-- Secure x-exec-secret auth and workflow state management
+- AI Crash Detection - TensorFlow.js model analyzes accelerometer data to detect accidents
+- 60-Second Emergency Countdown - User can cancel false alarms before alerts are sent
+- Automatic SMS & Calls - Notifies emergency contacts via Twilio integration
+- Live Location Tracking - GPS coordinates shared with emergency contacts via Google Maps
+- Nearby Hospital Finder - Locate and navigate to nearest hospitals
+- Offline Support - Fallback SMS via device messaging when internet is unavailable
+- Accident History - Dashboard showing past events and statistics
 
-⚡ Impact: Bridges the gap between AI code generation and operational execution, enabling deterministic, scriptable workflows across Linear.
-🔗 Repo: https://github.com/atulsingh369/linear-engine
+⚡ Impact: Reduces emergency response time by combining AI-driven crash detection, real-time location tracking, and automated emergency communication into a single mobile platform.
+🔗 Repo: https://github.com/priyankayadavyy/RoadSOS-AI
 
 ---
 
