@@ -78,18 +78,19 @@ Each project repository includes source code, project documentation, responsive 
 ### Philosophy
 
 > "Great software isn't just about writing code—it's about building experiences that solve real problems."
+
 > "I believe the best web applications combine clean code, thoughtful design, and a seamless user experience."
 
 ---
 ### Tech Focus
-**AI Systems:** LLM orchestration, RAG, embedding pipelines, vector DBs
-**Backend:** Node.js, TypeScript, FastAPI, Kafka, Redis, Microservices
-**Frontend:** Next.js, React, Tailwind CSS
-**Cloud & Infra:** AWS, GCP, Firebase, Vercel, Supabase, Docker, CI/CD
+**Backend:** Node.js, TypeScript, FastAPI, SQL, Express.js
+**Frontend:** Next.js, React, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3
+**Tools:** Firebase, Vercel, Supabase, Git, GitHub, VS Code, npm, Vite
+**Development:** Responsive Web Design, Component-Based Architecture, REST API Integration, UI Optimization
 
 ---
 ### Let’s Build
-Looking to collaborate on AI agent products, automation systems, analytics, and infra scaling.
+I'm always open to collaborating on modern web applications, responsive websites, landing pages, dashboards, and frontend development projects. If you're building something impactful, let's connect and create fast, scalable, and user-friendly digital experiences.
 
 📩 Email — [priyankayadavyy01@gamil.com](mailto:priyankayadavyy01@gmail.com)  
 🔗 LinkedIn — [linkedin.com/in/priyanka-yadav-7025a9214](https://www.linkedin.com/in/priyanka-yadav-7025a9214/)  
