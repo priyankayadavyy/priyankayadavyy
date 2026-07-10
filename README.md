@@ -31,6 +31,7 @@ Hackathon-ready project for real-time vehicle accident detection using AI, with 
 - Accident History - Dashboard showing past events and statistics
 
 ⚡ Impact: Reduces emergency response time by combining AI-driven crash detection, real-time location tracking, and automated emergency communication into a single mobile platform.
+
 🔗 Repo: https://github.com/priyankayadavyy/RoadSOS-AI
 
 ---
@@ -38,13 +39,15 @@ Hackathon-ready project for real-time vehicle accident detection using AI, with 
 #### E-Shop — Modern Responsive E-Commerce Web Application
 A fully responsive e-commerce platform built to deliver a clean and intuitive online shopping experience. The application features a modern UI, product browsing, shopping cart functionality, category-based navigation, and performance-focused frontend architecture.
 
-- Next.js 14 App Router with Supabase Auth (Google OAuth) and Postgres RLS policies
-- Excalidraw integration with local and Supabase state persistence
-- NVIDIA NIM-powered diagram generation strictly validated against server schemas
-- Per-user AI execution logs and secure, admin-only access control
+- Built with React.js, Next.js, and Tailwind CSS for a fast, scalable, and responsive user experience
+- Product listing with category filtering and search functionality
+- Shopping cart management with dynamic state updates
+- Mobile-first responsive design optimized for desktop, tablet, and mobile devices
+- Clean component-based architecture with reusable UI components and optimized performance
 
-⚡ Impact: Provides a secure, AI-powered visual workspace for internal teams, accelerating architecture design and diagramming workflows.
-🔗 Repo: https://github.com/atulsingh369/ai-whiteboard
+⚡ Impact: Delivers a modern, responsive shopping experience with intuitive navigation, improved usability, and a scalable frontend architecture suitable for real-world e-commerce applications.
+
+🔗 Repo: https://github.com/priyankayadavyy/Eshop
 
 ---
 
