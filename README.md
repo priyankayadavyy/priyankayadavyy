@@ -66,18 +66,18 @@ A responsive and visually engaging digital agency website developed to showcase 
 
 ---
 
-#### RunStack — Automation Execution Platform
-A powerful platform designed to allow users to seamlessly run and manage their workflows and automations in an intuitive environment.
+#### AtoZ Generic Admin Panel — Responsive Admin Dashboard
+A modern and scalable admin dashboard built to simplify application management through an intuitive interface. The panel provides responsive layouts, reusable UI components, secure authentication, and efficient data management for administrators.
 
-- Built with React.js, Next.js, and Tailwind CSS using a reusable component-based architecture
-Responsive design optimized for desktop, tablet, and mobile devices
-Service showcase, portfolio, and company information pages
-Interactive UI with smooth animations and intuitive navigation
-SEO-friendly structure and optimized frontend performance for faster page loading
+- Built with React.js, Next.js, and Tailwind CSS using a modular, component-based architecture
+- Secure authentication and role-based access for protected admin features
+- Dashboard with responsive layout, data tables, forms, and CRUD operations
+- Reusable UI components for easy scalability and maintainability
+- Performance-optimized frontend with clean navigation and mobile-friendly design
 
-⚡ Impact: Strengthens the company's online presence by providing a professional digital platform that effectively showcases services, builds credibility, and improves user engagement.
+⚡ Impact: Streamlines administrative workflows by providing a centralized dashboard for efficient data management, secure access control, and improved operational productivity.
 
-🔗 Repo: https://github.com/atulsingh369/Runstack
+🔗 Repo: https://github.com/priyankayadavyy/AtoZ-Generic-Admin-panel
 
 ---
 ### Proof of Work
