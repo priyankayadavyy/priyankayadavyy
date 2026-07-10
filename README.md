@@ -35,8 +35,8 @@ Hackathon-ready project for real-time vehicle accident detection using AI, with 
 
 ---
 
-#### AI Whiteboard — Production-Ready Visual Workspace
-A secure, Next.js 14 internal whiteboard platform integrated with Excalidraw and AI capabilities. It allows teams to collaboratively design architectures and instantly generate diagrams using state-of-the-art NVIDIA NIM endpoints.
+#### E-Shop — Modern Responsive E-Commerce Web Application
+A fully responsive e-commerce platform built to deliver a clean and intuitive online shopping experience. The application features a modern UI, product browsing, shopping cart functionality, category-based navigation, and performance-focused frontend architecture.
 
 - Next.js 14 App Router with Supabase Auth (Google OAuth) and Postgres RLS policies
 - Excalidraw integration with local and Supabase state persistence
