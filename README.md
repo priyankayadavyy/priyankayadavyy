@@ -51,27 +51,32 @@ A fully responsive e-commerce platform built to deliver a clean and intuitive on
 
 ---
 
-#### E-CommerceOS — AI-Powered Commerce Engine
-A modern, production-ready eCommerce platform built for speed, scalability, and AI-driven product discovery. Built as a client showcase to demonstrate end-to-end engineering and advanced search capabilities.
+#### Alfa Media — Modern Digital Agency Website
+A responsive and visually engaging digital agency website developed to showcase company services, portfolio, and brand identity. The application emphasizes modern UI/UX, smooth navigation, and performance optimization to provide an excellent user experience across all devices.
 
-- Next.js 14 App Router, React Server Components, and Framer Motion UI
-- Firestore real-time product database with dynamic categories and filtering
-- AI shopping assistant with semantic product search and comparison engine
-- SEO-ready architecture featuring optimized product pages and cart workflows
+- Built with React.js, Next.js, and Tailwind CSS using a reusable component-based architecture
+- Responsive design optimized for desktop, tablet, and mobile devices
+- Service showcase, portfolio, and company information pages
+- Interactive UI with smooth animations and intuitive navigation
+- SEO-friendly structure and optimized frontend performance for faster page loading
 
-⚡ Impact: Turns any small business into a modern online store in minutes, increasing lead-to-sale rates with AI search, recommendations, and conversion-optimized UI.
-🔗 Repo: https://github.com/atulsingh369/eCommerceOS
+⚡ Impact: Strengthens the company's online presence by providing a professional digital platform that effectively showcases services, builds credibility, and improves user engagement.
+
+🔗 Repo: https://github.com/priyankayadavyy/Alfa-media
 
 ---
 
 #### RunStack — Automation Execution Platform
 A powerful platform designed to allow users to seamlessly run and manage their workflows and automations in an intuitive environment.
 
-- Built on a modern TypeScript-first stack using Next.js
-- Responsive and clean UI designed with Tailwind CSS
-- Focuses on efficient execution and management of complex automated tasks
+- Built with React.js, Next.js, and Tailwind CSS using a reusable component-based architecture
+Responsive design optimized for desktop, tablet, and mobile devices
+Service showcase, portfolio, and company information pages
+Interactive UI with smooth animations and intuitive navigation
+SEO-friendly structure and optimized frontend performance for faster page loading
 
-⚡ Impact: Streamlines the deployment and usage of automated workflows, providing users with an accessible and high-performance automation execution layer.
+⚡ Impact: Strengthens the company's online presence by providing a professional digital platform that effectively showcases services, builds credibility, and improves user engagement.
+
 🔗 Repo: https://github.com/atulsingh369/Runstack
 
 ---
