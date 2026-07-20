@@ -36,6 +36,24 @@ Hackathon-ready project for real-time vehicle accident detection using AI, with 
 
 ---
 
+#### RoadSOS - AI-Powered Accident Detection & Emergency Alert System
+Hackathon-ready project for real-time vehicle accident detection using AI, with automatic emergency alerts via SMS and calls.
+
+- AI Crash Detection - TensorFlow.js model analyzes accelerometer data to detect accidents
+- 60-Second Emergency Countdown - User can cancel false alarms before alerts are sent
+- Automatic SMS & Calls - Notifies emergency contacts via Twilio integration
+- Live Location Tracking - GPS coordinates shared with emergency contacts via Google Maps
+- Nearby Hospital Finder - Locate and navigate to nearest hospitals
+- Offline Support - Fallback SMS via device messaging when internet is unavailable
+- Accident History - Dashboard showing past events and statistics
+
+⚡ Impact: Reduces emergency response time by combining AI-driven crash detection, real-time location tracking, and automated emergency communication into a single mobile platform.
+
+🔗 Repo: https://github.com/priyankayadavyy/RoadSOS-AI
+
+---
+
+
 #### E-Shop — Modern Responsive E-Commerce Web Application
 A fully responsive e-commerce platform built to deliver a clean and intuitive online shopping experience. The application features a modern UI, product browsing, shopping cart functionality, category-based navigation, and performance-focused frontend architecture.
 
