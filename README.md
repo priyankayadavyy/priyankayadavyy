@@ -1,109 +1,241 @@
-# Priyanka Yadav — Web Developer & AI Engineer
+
+<div align="center">
+
+# 👋 Priyanka Yadav
+### Web Developer & AI Engineer
+
+**Building Modern Web Experiences | React.js | Next.js | AI & Full Stack Development**
 
 I build modern, responsive, and high-performance web applications using React, JavaScript, and contemporary frontend technologies. I enjoy transforming ideas into clean, user-friendly digital experiences with a strong focus on performance, scalability, and intuitive design.
 
-From planning and development to deployment, I continuously learn and improve my skills while building production-ready web solutions and exploring full-stack development.
+<p>
+<a href="https://priyanka-portfolio-phi.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-blue?style=for-the-badge"/>
+</a>
+<a href="https://www.linkedin.com/in/priyanka-yadav-7025a9214/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:priyankayadavyy01@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
 
-
----
-### What I work on
-
-* Responsive and modern web application development using React, Next, TypeScript, JavaScript, HTML, CSS, and Tailwind CSS..
-* Frontend UI/UX implementation with clean, reusable, and scalable components.
-* REST API integration and performance-focused web development.
-* Building portfolio websites, landing pages, dashboards, and business websites.
-* Exploring full-stack development with modern web technologies while creating production-ready applications.
-
----
-### Selected Projects
-
----
-
-#### RoadSOS - AI-Powered Accident Detection & Emergency Alert System
-Hackathon-ready project for real-time vehicle accident detection using AI, with automatic emergency alerts via SMS and calls.
-
-- AI Crash Detection - TensorFlow.js model analyzes accelerometer data to detect accidents
-- 60-Second Emergency Countdown - User can cancel false alarms before alerts are sent
-- Automatic SMS & Calls - Notifies emergency contacts via Twilio integration
-- Live Location Tracking - GPS coordinates shared with emergency contacts via Google Maps
-- Nearby Hospital Finder - Locate and navigate to nearest hospitals
-- Offline Support - Fallback SMS via device messaging when internet is unavailable
-- Accident History - Dashboard showing past events and statistics
-
-⚡ Impact: Reduces emergency response time by combining AI-driven crash detection, real-time location tracking, and automated emergency communication into a single mobile platform.
-
-🔗 Repo: https://github.com/priyankayadavyy/RoadSOS-AI
+</div>
 
 ---
 
+## 🏆 What I Do
 
-#### E-Shop — Modern Responsive E-Commerce Web Application
-A fully responsive e-commerce platform built to deliver a clean and intuitive online shopping experience. The application features a modern UI, product browsing, shopping cart functionality, category-based navigation, and performance-focused frontend architecture.
+<p align="center">
+<img src="https://img.shields.io/badge/💻_Web_Developer-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧠_AI_&_ML_Enthusiast-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚛️_Frontend_Expert-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀_Full_Stack_Developer-1E293B?style=for-the-badge"/>
+</p>
 
-- Built with React.js, Next.js, and Tailwind CSS for a fast, scalable, and responsive user experience
-- Product listing with category filtering and search functionality
-- Shopping cart management with dynamic state updates
-- Mobile-first responsive design optimized for desktop, tablet, and mobile devices
-- Clean component-based architecture with reusable UI components and optimized performance
-
-⚡ Impact: Delivers a modern, responsive shopping experience with intuitive navigation, improved usability, and a scalable frontend architecture suitable for real-world e-commerce applications.
-
-🔗 Repo: https://github.com/priyankayadavyy/Eshop
-
----
-
-#### Alfa Media — Modern Digital Agency Website
-A responsive and visually engaging digital agency website developed to showcase company services, portfolio, and brand identity. The application emphasizes modern UI/UX, smooth navigation, and performance optimization to provide an excellent user experience across all devices.
-
-- Built with React.js, Next.js, and Tailwind CSS using a reusable component-based architecture
-- Responsive design optimized for desktop, tablet, and mobile devices
-- Service showcase, portfolio, and company information pages
-- Interactive UI with smooth animations and intuitive navigation
-- SEO-friendly structure and optimized frontend performance for faster page loading
-
-⚡ Impact: Strengthens the company's online presence by providing a professional digital platform that effectively showcases services, builds credibility, and improves user engagement.
-
-🔗 Repo: https://github.com/priyankayadavyy/Alfa-media
+- Responsive and modern web application development.
+- Frontend UI/UX implementation with clean, reusable, and scalable components.
+- REST API integration and performance-focused web development.
+- Portfolio websites, landing pages, dashboards, and business websites.
+- Exploring full-stack development and production-ready applications.
 
 ---
 
-#### AtoZ Generic Admin Panel — Responsive Admin Dashboard
-A modern and scalable admin dashboard built to simplify application management through an intuitive interface. The panel provides responsive layouts, reusable UI components, secure authentication, and efficient data management for administrators.
+## 🚀 Selected Projects
 
-- Built with React.js, Next.js, and Tailwind CSS using a modular, component-based architecture
-- Secure authentication and role-based access for protected admin features
-- Dashboard with responsive layout, data tables, forms, and CRUD operations
-- Reusable UI components for easy scalability and maintainability
-- Performance-optimized frontend with clean navigation and mobile-friendly design
+<table>
+<tr>
+<td width="50%" valign="top">
 
-⚡ Impact: Streamlines administrative workflows by providing a centralized dashboard for efficient data management, secure access control, and improved operational productivity.
+<h3>🚨 RoadSOS</h3>
+<h4>AI-Powered Accident Detection & Emergency Alert System</h4>
 
-🔗 Repo: https://github.com/priyankayadavyy/AtoZ-Generic-Admin-panel
+An AI-powered accident detection platform designed to detect vehicle accidents and automatically notify emergency contacts.
+
+**Key Features**
+- AI crash detection using TensorFlow.js
+- 60-second emergency countdown
+- Automatic SMS and calls using Twilio
+- GPS live location tracking
+- Nearby hospital finder
+- Offline SMS fallback
+- Accident history dashboard
+
+**⚡ Impact:** Combines AI detection, location tracking, and emergency communication to help reduce emergency response time.
+
+**Tech Stack:** AI | TensorFlow.js | Twilio | GPS
+
+<a href="https://github.com/priyankayadavyy/RoadSOS-AI">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🛍️ E-Shop</h3>
+<h4>Modern Responsive E-Commerce Web Application</h4>
+
+A modern e-commerce platform delivering a clean and intuitive online shopping experience.
+
+**Key Features**
+- Product listing and browsing
+- Category-based filtering
+- Product search functionality
+- Dynamic shopping cart management
+- Mobile-first responsive design
+- Reusable UI components
+- Performance-focused architecture
+
+**⚡ Impact:** Delivers an intuitive shopping experience with responsive design, smooth navigation, and scalable frontend architecture.
+
+**Tech Stack:** React.js | Next.js | Tailwind CSS
+
+<a href="https://github.com/priyankayadavyy/Eshop">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>🎨 Alfa Media</h3>
+<h4>Modern Digital Agency Website</h4>
+
+A responsive digital agency website showcasing company services, portfolio, and brand identity.
+
+**Key Features**
+- Modern and responsive UI/UX
+- Service showcase and portfolio pages
+- Reusable component architecture
+- Interactive UI and smooth animations
+- SEO-friendly structure
+- Performance optimization
+
+**⚡ Impact:** Strengthens online brand presence through a professional digital platform that showcases services and improves user engagement.
+
+**Tech Stack:** React.js | Next.js | Tailwind CSS
+
+<a href="https://github.com/priyankayadavyy/Alfa-media">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>📊 AtoZ Generic Admin Panel</h3>
+<h4>Responsive Admin Dashboard</h4>
+
+A modern admin dashboard designed to simplify application management through an intuitive interface.
+
+**Key Features**
+- Secure authentication
+- Role-based access control
+- Responsive dashboard layout
+- Data tables and forms
+- CRUD operations
+- Reusable UI components
+- Scalable architecture
+
+**⚡ Impact:** Streamlines administrative workflows through centralized data management, secure access, and improved operational productivity.
+
+**Tech Stack:** React.js | Next.js | Tailwind CSS
+
+<a href="https://github.com/priyankayadavyy/AtoZ-Generic-Admin-panel">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
-### Proof of Work
 
-Each project repository includes source code, project documentation, responsive UI previews, implementation details, and setup instructions. My work reflects clean coding practices, reusable components, and modern frontend development using React and JavaScript.
+## 🛠️ Tech Focus
 
+<table>
+<tr>
+<td align="center" width="25%">
+<h3>🎨 Frontend</h3>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
+</td>
+<td align="center" width="25%">
+<h3>⚙️ Backend</h3>
+<img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi" />
+<br/>
+SQL
+</td>
+<td align="center" width="25%">
+<h3>🔧 Tools</h3>
+<img src="https://skillicons.dev/icons?i=firebase,supabase,vercel,git,github,vscode,vite" />
+</td>
+<td align="center" width="25%">
+<h3>🧠 Development</h3>
+<p>
+REST APIs<br/>
+Responsive Design<br/>
+UI Optimization<br/>
+Reusable Components
+</p>
+</td>
+</tr>
+</table>
 
 ---
-### Philosophy
 
-> "Great software isn't just about writing code—it's about building experiences that solve real problems."
+## 📈 GitHub Analytics
 
-> "I believe the best web applications combine clean code, thoughtful design, and a seamless user experience."
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=priyankayadavyy&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyankayadavyy&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankayadavyy&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
 
 ---
-### Tech Focus
-**Backend:** Node.js, TypeScript, FastAPI, SQL, Express.js
-**Frontend:** Next.js, React, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3
-**Tools:** Firebase, Vercel, Supabase, Git, GitHub, VS Code, npm, Vite
-**Development:** Responsive Web Design, Component-Based Architecture, REST API Integration, UI Optimization
+
+## 💡 My Philosophy
+
+<div align="center">
+
+> "Great software isn't just about writing code — it's about building experiences that solve real problems."
+
+> "The best web applications combine clean code, thoughtful design, and a seamless user experience."
+
+</div>
 
 ---
-### Let’s Build
-I'm always open to collaborating on modern web applications, responsive websites, landing pages, dashboards, and frontend development projects. If you're building something impactful, let's connect and create fast, scalable, and user-friendly digital experiences.
 
-📩 Email — [priyankayadavyy01@gamil.com](mailto:priyankayadavyy01@gmail.com)  
-🔗 LinkedIn — [linkedin.com/in/priyanka-yadav-7025a9214](https://www.linkedin.com/in/priyanka-yadav-7025a9214/)  
-👉 Portfolio - [priyanka-portfolio-phi.vercel.app](https://priyanka-portfolio-phi.vercel.app/)  
+## 🤝 Let's Build Something Great
+
+I'm always open to collaborating on modern web applications, responsive websites, landing pages, dashboards, and frontend development projects.
+
+If you're building something impactful, let's connect and create fast, scalable, and user-friendly digital experiences.
+
+<div align="center">
+
+### 📬 Connect With Me
+
+<a href="mailto:priyankayadavyy01@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/priyanka-yadav-7025a9214/">
+<img src="https://img.shields.io/badge/LinkedIn-Priyanka_Yadav-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://priyanka-portfolio-phi.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-6C63FF?style=for-the-badge&logo=vercel"/>
+</a>
+
+<br/><br/>
+
+### ✨ Turning Ideas Into Digital Experiences ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=100&section=footer"/>
+
+</div>
