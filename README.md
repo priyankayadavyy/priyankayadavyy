@@ -1,34 +1,36 @@
 
-#  Priyanka Singh Yadav
-<!-- markdownlint-disable MD033 -->
+<div align="center">
 
-## Web Developer & AI Engineer
+# 👋 Priyanka Yadav
+### Web Developer & AI Engineer
 
-### Building Modern Web Experiences | React.js | Next.js | AI & Full Stack Development
+**Building Modern Web Experiences | React.js | Next.js | AI & Full Stack Development**
 
 I build modern, responsive, and high-performance web applications using React, JavaScript, and contemporary frontend technologies. I enjoy transforming ideas into clean, user-friendly digital experiences with a strong focus on performance, scalability, and intuitive design.
 
 <p>
 <a href="https://priyanka-portfolio-phi.vercel.app/">
-<img alt="Portfolio website" src="https://img.shields.io/badge/🌐_Portfolio-Visit-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-blue?style=for-the-badge"/>
 </a>
 <a href="https://www.linkedin.com/in/priyanka-yadav-7025a9214/">
-<img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="mailto:priyankayadavyy01@gmail.com">
-<img alt="Email contact" src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
+
+</div>
 
 ---
 
 ## 🏆 What I Do
 
 <p align="center">
-<img alt="Web Developer" src="https://img.shields.io/badge/💻_Web_Developer-1E293B?style=for-the-badge"/>
-<img alt="AI and ML enthusiast" src="https://img.shields.io/badge/🧠_AI_&_ML_Enthusiast-1E293B?style=for-the-badge"/>
-<img alt="Frontend expert" src="https://img.shields.io/badge/⚛️_Frontend_Expert-1E293B?style=for-the-badge"/>
-<img alt="Full Stack Developer" src="https://img.shields.io/badge/🚀_Full_Stack_Developer-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💻_Web_Developer-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧠_AI_&_ML_Enthusiast-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚛️_Frontend_Expert-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀_Full_Stack_Developer-1E293B?style=for-the-badge"/>
 </p>
 
 - Responsive and modern web application development.
@@ -64,7 +66,7 @@ An AI-powered accident detection platform designed to detect vehicle accidents a
 **Tech Stack:** AI | TensorFlow.js | Twilio | GPS
 
 <a href="https://github.com/priyankayadavyy/RoadSOS-AI">
-<img alt="View RoadSOS repository" src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
@@ -89,7 +91,7 @@ A modern e-commerce platform delivering a clean and intuitive online shopping ex
 **Tech Stack:** React.js | Next.js | Tailwind CSS
 
 <a href="https://github.com/priyankayadavyy/Eshop">
-<img alt="View E-Shop repository" src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
@@ -116,7 +118,7 @@ A responsive digital agency website showcasing company services, portfolio, and 
 **Tech Stack:** React.js | Next.js | Tailwind CSS
 
 <a href="https://github.com/priyankayadavyy/Alfa-media">
-<img alt="View Alfa Media repository" src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
@@ -141,7 +143,7 @@ A modern admin dashboard designed to simplify application management through an 
 **Tech Stack:** React.js | Next.js | Tailwind CSS
 
 <a href="https://github.com/priyankayadavyy/AtoZ-Generic-Admin-panel">
-<img alt="View AtoZ Generic Admin Panel repository" src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
@@ -156,17 +158,17 @@ A modern admin dashboard designed to simplify application management through an 
 <tr>
 <td align="center" width="25%">
 <h3>🎨 Frontend</h3>
-<img alt="Frontend technologies including React, Next.js, TypeScript, JavaScript, HTML, CSS, and Tailwind CSS" src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
 </td>
 <td align="center" width="25%">
 <h3>⚙️ Backend</h3>
-<img alt="Backend technologies including Node.js, Express, Python, and FastAPI" src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi" />
 <br/>
 SQL
 </td>
 <td align="center" width="25%">
 <h3>🔧 Tools</h3>
-<img alt="Development tools including Firebase, Supabase, Vercel, Git, GitHub, VS Code, and Vite" src="https://skillicons.dev/icons?i=firebase,supabase,vercel,git,github,vscode,vite" />
+<img src="https://skillicons.dev/icons?i=firebase,supabase,vercel,git,github,vscode,vite" />
 </td>
 <td align="center" width="25%">
 <h3>🧠 Development</h3>
@@ -186,11 +188,11 @@ Reusable Components
 
 <div align="center">
 
-<img alt="Priyanka Yadav GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=priyankayadavyy&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=priyankayadavyy&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 
-<img alt="Priyanka Yadav GitHub streak statistics" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankayadavyy&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyankayadavyy&theme=tokyonight&hide_border=true" height="165"/>
 
-<img alt="Priyanka Yadav top programming languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankayadavyy&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankayadavyy&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
@@ -219,21 +221,21 @@ If you're building something impactful, let's connect and create fast, scalable,
 ### 📬 Connect With Me
 
 <a href="mailto:priyankayadavyy01@gmail.com">
-<img alt="Email contact" src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://www.linkedin.com/in/priyanka-yadav-7025a9214/">
-<img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-Priyanka_Yadav-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Priyanka_Yadav-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://priyanka-portfolio-phi.vercel.app/">
-<img alt="Portfolio website" src="https://img.shields.io/badge/Portfolio-Explore_My_Work-6C63FF?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-6C63FF?style=for-the-badge&logo=vercel"/>
 </a>
 
 <br/><br/>
 
 ### ✨ Turning Ideas Into Digital Experiences ✨
 
-<img alt="Decorative footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=100&section=footer"/>
 
 </div>
