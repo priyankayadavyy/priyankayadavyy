@@ -2,7 +2,7 @@
 #  Priyanka Singh Yadav
 <!-- markdownlint-disable MD033 -->
 
-### Web Developer & AI Engineer
+## Web Developer & AI Engineer
 
 **Building Modern Web Experiences | React.js | Next.js | AI & Full Stack Development**
 
