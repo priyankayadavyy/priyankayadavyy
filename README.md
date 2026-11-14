@@ -9,7 +9,7 @@
 I build modern, responsive, and high-performance web applications using React, JavaScript, and contemporary frontend technologies. I enjoy transforming ideas into clean, user-friendly digital experiences with a strong focus on performance, scalability, and intuitive design.
 
 <p>
-<a href="https://priyanka-portfolio-phi.vercel.app/">
+<a href="https://priyanka-3-d-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-blue?style=for-the-badge"/>
 </a>
 <a href="https://www.linkedin.com/in/priyanka-yadav-7025a9214/">
