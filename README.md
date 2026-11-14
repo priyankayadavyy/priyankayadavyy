@@ -1,7 +1,7 @@
 
-<div align="center">
+#  Priyanka Singh Yadav
+<!-- markdownlint-disable MD033 -->
 
-# 👋 Priyanka Yadav
 ### Web Developer & AI Engineer
 
 **Building Modern Web Experiences | React.js | Next.js | AI & Full Stack Development**
@@ -19,8 +19,6 @@ I build modern, responsive, and high-performance web applications using React, J
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
-
-</div>
 
 ---
 
