@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 Priyanka Yadav
+#  Priyanka Singh Yadav 
 ### Web Developer & AI Engineer
 
 **Building Modern Web Experiences | React.js | Next.js | AI & Full Stack Development**
