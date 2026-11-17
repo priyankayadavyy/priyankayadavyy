@@ -4,7 +4,7 @@
 #  Priyanka Singh Yadav 
 ### Web Developer & AI Engineer
 
-** Building Modern Web Experiences | React.js | Next.js | AI & Full Stack Development **
+**Building Modern Web Experiences | React.js | Next.js | AI & Full Stack Development**
 
 I build modern, responsive, and high-performance web applications using React, JavaScript, and contemporary frontend technologies. I enjoy transforming ideas into clean, user-friendly digital experiences with a strong focus on performance, scalability, and intuitive design.
 
