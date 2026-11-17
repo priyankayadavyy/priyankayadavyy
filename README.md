@@ -6,7 +6,7 @@
 
 **Building Modern Web Experiences | React.js | Next.js | AI & Full Stack Development**
 
-I build modern, responsive, and high-performance web applications using React, JavaScript, and contemporary frontend technologies. I enjoy transforming ideas into clean, user-friendly digital experiences with a strong focus on performance, scalability, and intuitive design.
+I am a Web Developer focused on building modern, responsive, and high-performance web applications. I specialize in frontend development using React.js, Next.js, JavaScript, and TypeScript, with practical experience in backend development, REST API integration, and database management. I enjoy solving real-world problems, creating scalable user experiences, and continuously exploring new technologies.
 
 <p>
 <a href="https://priyanka-3-d-portfolio.vercel.app/">
